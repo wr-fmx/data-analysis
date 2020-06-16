@@ -1,2 +1,2 @@
 # hello-world
-first project
+first project for quantitative trade
